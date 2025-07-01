@@ -1,0 +1,46 @@
+- Levantamento inicial de requisitos
+- Definição de metodologias e padrões
+  - Definir metodologia de desenvolvimento
+  - Definir fluxo de trabalho com Git
+  - Definir padrões de commits e nomenclatura de branches
+  - Definir metodologia de desenvolvimento focada em testes
+- Diagramação
+  - Diagrama de casos de uso
+  - Diagrama de classes
+  - Diagrama de sequência
+  - Desenhar arquitetura
+- Configurações
+  - Backend
+    - Servidor
+      - Definir hospedagem
+      - Configurar hospedagem
+      - Definir ferramentas
+      - Configurar ferramentas
+      - Definir tecnologias
+      - Configurar tecnologias
+      - Planejar e implantar CI/CD
+      - Definir variáveis de ambiente
+    - Banco
+      - Definir ferramentas
+      - Configurar ferramentas
+      - Definir tecnologias
+      - Configurar tecnologias
+      - Planejar e implantar CI/CD
+  - Cliente
+    - Definir hospedagem
+    - Configurar hospedagem
+    - Definir ferramentas
+    - Configurar ferramentas
+    - Definir tecnologias
+    - Configurar tecnologias
+    - Planejar e implantar CI/CD
+    - Definir variáveis de ambiente
+- Implementação
+  - Servidor
+    - Implementar rota de status de serviços
+    - Implementar sistema de autenticação
+    - Implementar rota de inicialização de quiz
+    - Implementar rota de inicialização de puzzle
+    - Implementar rota de verificação de resposta do quiz
+    - Implementar rota de verificação de resposta do puzzle
+    - Implementar rota de progresso do usuário
